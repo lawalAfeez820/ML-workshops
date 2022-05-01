@@ -2,7 +2,7 @@
 
 ## PROBLEM
 
-Using Logistic Regression,Decision Tree classifier and Random Forest Classifier to train a dank dataset and picking the model with highest accuracy_score as the best model.
+Using Logistic Regression,Decision Tree classifier and Random Forest Classifier to train a bank dataset and picking the model with highest accuracy_score as the best model.
 
 ## Solution
 
